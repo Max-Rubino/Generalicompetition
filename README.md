@@ -1,0 +1,2 @@
+# Generalicompetition
+Churn prediction
